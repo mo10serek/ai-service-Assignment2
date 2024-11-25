@@ -8,8 +8,8 @@ Host: localhost:5001
 Content-Type: application/json
 
 {
-    "name": "Seafarer's Tug Rope",
-    "tags": ["toy","dog"]
+    "name": "OLED webOS Evo ThinQ AI Smart TV",
+    "tags": ["tv","entertament"]
 }
 
 ### Generate product image
@@ -18,6 +18,6 @@ Host: localhost:5001
 Content-Type: application/json
 
 {
-    "name": "Seafarer's Tug Rope",
-    "description": "Engage your pup in a game of tug-of-war with the Seafarer's Tug Rope. Made from durable materials, this toy is perfect for interactive playtime and bonding with your furry friend."
+    "name": "OLED webOS Evo ThinQ AI Smart TV",
+    "description": "Experience the ultimate in visual brilliance with the LG 65 4K OLED Evo ThinQ AI smart TV. It comes with gaming features like NVIDIA G-Sync, AMD FreeSync Premium, and VRR to ensure enhanced gameplay. With a lightning-fast 0.1ms response time and a native 120Hz refresh rate, it delivers crisp and smooth imagery. Thanks to the intuitive AI features, accessing your favourite content is a breeze."
 }
