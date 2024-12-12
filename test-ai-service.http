@@ -8,8 +8,8 @@ Host: localhost:5001
 Content-Type: application/json
 
 {
-    "name": "Seafarer's Tug Rope",
-    "tags": ["toy","dog"]
+    "name": "Sony WH-CH520 On-Ear Bluetooth Headphones w/ Microphone - Black",
+    "tags": ["headphones","weable"]
 }
 
 ### Generate product image
@@ -18,6 +18,6 @@ Host: localhost:5001
 Content-Type: application/json
 
 {
-    "name": "Seafarer's Tug Rope",
-    "description": "Engage your pup in a game of tug-of-war with the Seafarer's Tug Rope. Made from durable materials, this toy is perfect for interactive playtime and bonding with your furry friend."
+    "name": "Sony WH-CH520 On-Ear Bluetooth Headphones w/ Microphone - Black",
+    "description": "Listen all day with the Sony WH-CH520 on-ear headphones. These headphones are powered with a 50-hour battery. It features a lightweight over-the-head band and padded cups to ensure optimal comfort, and the ten-metre Bluetooth range allows for easy connection to Bluetooth compatible devices. They’re also equipped with a built-in microphone for crisp, hands-free voice calls."
 }
